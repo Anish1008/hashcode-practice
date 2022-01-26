@@ -26,7 +26,7 @@
 //             You will not see any discripancy in the output bcoz we did not use the other "2" anyway.
 //             But it is a wrong practice..... remember that.....!!!!!!!
 
-//         Lib_Book_ids = [[0 1 2 3 4] [3 2 5 0]]
+//         Lib_Book_ids: storing the book ids contained in the library = [[0 1 2 3 4] [3 2 5 0]]
     
 //     Few imp doubts i need to clear:
 //         why did i actually used array_list too....:  to make input into the linked_list.
