@@ -276,3 +276,6 @@ public class book_scanning {
         }
     }
 }
+
+// That is it baby... we completed the code, if you understod it till this you are awesome.. however if you didn't understand it feel free to ask
+//I will suggest you try this code on your own.... I know it would be a difficult task but I am there stack overflow is there... go on.
